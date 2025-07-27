@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "7322b215bd93d451",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b1112c30dd508c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b43d8244b1779e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c4de56cf981d85c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5632a95426d878cd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "0200ef4b553046ac",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "11f32fbfe8888656",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "af440dbe7785321b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "418a7894a0f2d61d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a08d9a35f84102b9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f19190ec1963588f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "639359891cba0f89",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7b43d8244b1779e1",
+  "lastOpenFiles": [
+    "README.md",
+    "Session 1.md",
+    "Images/Vetri1.png",
+    "Images/sir_edgar_starling.png",
+    "Images/Silvius Esmer-Gradus.jpg",
+    "Images/Oscar1nicholas-swigart.jpg",
+    "Images/Norah Ward.jpg",
+    "Images/Miri1.jpg",
+    "Images/MartinLetter1.png",
+    "Images/Loras Runestrong.jpg",
+    "Images/Faithhills.jpg",
+    "Images/IMG_20250727_012522.png",
+    "Sessions/Session 1.md",
+    "Sessions/Session 0C.md",
+    "Sessions/Session 0B.md",
+    "Sessions/Session 0A.md"
+  ]
+}
