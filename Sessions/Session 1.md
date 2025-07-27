@@ -1,7 +1,7 @@
 We start off at the Gwynne mansion.
 
 [[Cedrik]]'s butler tells him about a letter that seems to have arrived late. The letter was from Martin, a friend of Cedriks talking about an artifact he borrowed from him, and a meeting with a person he "doesn't trust".
-![[../Images/MartinLetter1.png]]
+![[MartinLetter1.png]](/Images/MartinLetter1.png)
 We then pan over to the east (also shitty) district of Fayshine, in the mafia casino of the Rubio family.
 
 [[Esther]] and [[Miri]] discussing the disappearance of Luciano. They hear of some disturbance in the west side of the city. Miri gets paid his gold, and Esther plans on going there herself to find [[Luciano]]. Miri ends up tailing Esther on her way there.
@@ -46,11 +46,13 @@ After combat is over, Rorax tells everyone to stay in one group, as he needs to 
 
 They talk on the way, and once there, they do official introductions. Edgar reads his father Allen's diary which talks about Martin and his peculiar preference.
 
-![[../ImagesAllanJournal1.png]]
+![[AllanJournal1.png]](/Images/AllanJournal1.png)
 
-![[../ImagesAllanJournal2.png]]
+![[AllanJournal2.png]](/Images/AllanJournal2.png)
 
-![[../ImagesAllanJournal3.png]] In the morning, the gang (part literally) met at the dining table where Azukk had prepared breakfast for everyone. They talked about what they can do next, including.
+![[AllanJournal3.png]](/Images/AllanJournal3.png) 
+
+In the morning, the gang (part literally) met at the dining table where Azukk had prepared breakfast for everyone. They talked about what they can do next, including.
 
 After Silvius cleared some doubts about his presence in this group of somewhat older detectives, mafia members and archeologist, they explore the mansion. Silvius finds Professor Clara's old studio and gives Cedrik a hard time about it. Vetri finds a number of books on Angels, Celestials, Devil's and Fallen Angels in Cedriks Library, which seems peculiar. Esther meanwhile, is looking to make a quick buck by picking off something non essential, and snatches a golden goblet while no one is looking. Edgar, still wary of Cedrik followed Vetri and noticed his peculiar library collection. Miri heads into the music room, where they see Azukk cleaning a piano. Everyone convenes in the music room to hear Esther and and Miri playing the piano.
 
