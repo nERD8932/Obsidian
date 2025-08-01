@@ -4,7 +4,7 @@ We start off at the Gwynne mansion.
 ![MartinLetter1.png](/Images/MartinLetter1.png)
 We then pan over to the east (also shitty) district of Fayshine, in the mafia casino of the Rubio family.
 
-[[Esther]] and [[Miri]] discussing the disappearance of Luciano. They hear of some disturbance in the west side of the city. Miri gets paid his gold, and Esther plans on going there herself to find [[Luciano]]. Miri ends up tailing Esther on her way there.
+We see [[Esther]] and [[Miri]] discussing the disappearance of [[Luciano]]. They hear of some disturbance in the west side of the city. Miri gets paid his gold, and Esther plans on going there herself to find Luciano. Miri ends up tailing Esther on her way there.
 
 [[Vetri]] hears similar news in the [[Sombus Archaeological Society]] and heads there with [[Oscar Ortez]] after convincing him with a nat-20.
 
@@ -18,11 +18,11 @@ Edgar meets Vetri and Oscar. They make conversation.
 
 Cedrik and Silvius meet and make conversation.
 
-The two groups meet and after some conversation head inside the warehouse.
+The two groups meet and head inside the warehouse after talking for a bit.
 
-Simultaneously, Esther and Miri sneak past some guards (after Esther goes off on Miri) and head inside after picking the lock.
+Simultaneously, Esther and Miri sneak past some guards (after Esther goes off on Miri for tailing her) and head inside after Esther picks the back door lock.
 
-Inside the find the dead bodies of [[Loras Runestrong]], [[Martin Candlewynd]] and [[Luciano]]. They all are around a pool of black ooze. Edgar with a good investigation check claims that they died to necrotic damage.
+Inside the find the dead bodies of [[Loras Runestrong]], [[Martin Candlewynd]] and [[Luciano]]. The dead bodies are inside a pool of black ooze. Edgar with a good investigation check claims that they died to necrotic damage, and that there was a fourth person here, who was likely the culprit.
 
 The group is distraught. Cedrick, Miri and Esther try to find a demonic artifact called "VN-ABYSSAL-B", a clay title written in Abyssal. They don't find it. 
 
@@ -30,7 +30,7 @@ Cedrick had given the artifact to Martin for an exhibition, prior to sending tha
 
 The group discusses possibilities. After Cedrik questions who Luciano is, Esther tells the group that Luciano was a respectable person. Silvius mentions that professor was the head Professor of Languages and Scribing. 
 
-Esther pulls out a broken broach, followed by smoking a cigar Luciano had. 
+Esther pulls out a broken broach from Lucianos dead body, followed by two cigars, one for each.
 
 Inspector Rorax comes and tells everyone to not fuck with the crime scene. He says most of the police have been home, due to the storm. 
 
@@ -38,13 +38,13 @@ Rorax also tells the group that apparently Martin woke the warehouse's guard up 
 
 After a bit more conversation, they hear some ruckus outside, only to find a group of Rat Mafia members, as they are trying to knock Azukk, Cedrik's butler out.
 
-Combat starts; Esther throws daggers and esnares; Rorax shoots; Edgar uses his rapier and spell strikes; Cedrick paints an aura of frost, but gets knocked out afterwards.
+Combat starts; Esther throws daggers and esnares; Rorax shoots; Edgar uses his rapier and spell strikes; Cedrick paints an aura of frost, but gets knocked out afterwards. Miri graciously brings him back by casting Healing Word. Vetri uses her spells to deal damage. 
 
 A large wave crashes into everyone from the dock, washing everyone but Edgar, who held his footing.
 
 After combat is over, Rorax tells everyone to stay in one group, as he needs to question them. Cedrick offers to host everyone at their mansion.
 
-They talk on the way, and once there, they do official introductions. Edgar reads his father Allen's diary which talks about Martin and his peculiar preference.
+They talk on the way, and once they reached the mansion, they do official introductions. After talking for a while, everyone goes to their rooms and sleeps for the night. Edgar reads his father Allen's diary which talks about Martin and his peculiar preference.
 
 ![AllanJournal1.png](/Images/AllanJournal1.png)
 
@@ -52,8 +52,8 @@ They talk on the way, and once there, they do official introductions. Edgar read
 
 ![AllanJournal3.png](/Images/AllanJournal3.png) 
 
-In the morning, the gang (part literally) met at the dining table where Azukk had prepared breakfast for everyone. They talked about what they can do next, including.
+In the morning, the gang (part literally) met at the dining table where Azukk had prepared breakfast for everyone. They talked about what they can do next, including what leads to follow (like Martins).
 
-After Silvius cleared some doubts about his presence in this group of somewhat older detectives, mafia members and archeologist, they explore the mansion. Silvius finds Professor Clara's old studio and gives Cedrik a hard time about it. Vetri finds a number of books on Angels, Celestials, Devil's and Fallen Angels in Cedriks Library, which seems peculiar. Esther meanwhile, is looking to make a quick buck by picking off something non essential, and snatches a golden goblet while no one is looking. Edgar, still wary of Cedrik followed Vetri and noticed his peculiar library collection. Miri heads into the music room, where they see Azukk cleaning a piano. Everyone convenes in the music room to hear Esther and and Miri playing the piano.
+After Silvius cleared some doubts about his presence in this group of somewhat older detectives, mafia members and archeologists, they explore the mansion. Silvius finds Professor Clara's old studio and gives Cedrik a hard time about it. Vetri finds a number of books on Angels, Celestials, Devils and Fallen Angels in Cedriks' Library, which seems peculiar. Esther meanwhile, is looking to make a quick buck by picking off something non essential, and snatches a golden goblet while no one is looking. Edgar, still wary of Cedrik followed Vetri and noticed his peculiar library collection. Miri heads into the music room, where they see Azukk cleaning a piano. Everyone convenes in the music room to hear Esther and and Miri playing the piano (Scarborough Fair, to be specific).
 
-The session ends once Rorax comes to the mansion. 
+The session ends once Rorax comes to the mansion.
