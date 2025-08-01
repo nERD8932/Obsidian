@@ -4,7 +4,7 @@ We start off at the Gwynne mansion.
 ![MartinLetter1.png](/Images/MartinLetter1.png)
 We then pan over to the east (also shitty) district of Fayshine, in the mafia casino of the Rubio family.
 
-We see [[Esther]] and [[Miri]] discussing the disappearance of [[Luciano]]. They hear of some disturbance in the west side of the city. Miri gets paid his gold, and Esther plans on going there herself to find Luciano. Miri ends up tailing Esther on her way there.
+We see [[Esther]] and [[Miri]] discussing the disappearance of [[Luciano]]. They hear of some disturbance in the west side of the city. Miri gets paid their gold, and Esther plans on going there herself to find Luciano. Miri ends up tailing Esther on her way there.
 
 [[Vetri]] hears similar news in the [[Sombus Archaeological Society]] and heads there with [[Oscar Ortez]] after convincing him with a nat-20.
 

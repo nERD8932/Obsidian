@@ -137,9 +137,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "4c9667bf864c6cdf",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,10 +164,10 @@
   },
   "active": "7b43d8244b1779e1",
   "lastOpenFiles": [
+    "Sessions/Session 1.md",
     "/Sessions/Session 1.md",
     "/Sessions",
     "Images/MartinLetter1.png",
-    "Sessions/Session 1.md",
     "README.md",
     "Session 1.md",
     "Images/Vetri1.png",
