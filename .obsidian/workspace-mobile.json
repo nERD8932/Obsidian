@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Sessions/Session 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,6 +154,8 @@
   },
   "active": "7b43d8244b1779e1",
   "lastOpenFiles": [
+    "/Sessions/Session 1.md",
+    "/Sessions",
     "Images/MartinLetter1.png",
     "Sessions/Session 1.md",
     "README.md",
@@ -165,7 +168,7 @@
     "Images/Miri1.jpg",
     "Images/Loras Runestrong.jpg",
     "Images/Faithhills.jpg",
-    "Images/IMG_20250727_012522.png",
+    "Images/Cedrik Gwynne.png",
     "Sessions/Session 0C.md",
     "Sessions/Session 0B.md",
     "Sessions/Session 0A.md"
