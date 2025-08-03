@@ -17,7 +17,7 @@ Silvius also realizes that he was painting the "true essence" of Cedrik, which s
 
 The party splits into (Edgar, Esther and Cedrik) and (Silvius, Vetri and Miri). 
 
-Edgar and co. head to castella, to meet his Ratti contact. They talk about Edgars connections to different mafia families. They go over to the Planar Pub. they meet Alice Fayman, who seems to know Edgar. They introduce each other and make some small talk.
+Edgar and co. head to castella, to meet his Ratti contact. They talk about Edgars connections to different mafia families. They go over to the Planar Pub. they meet Alice Fayman, who is Edgar's cousin. They introduce each other and make some small talk.
 
 They see [[Bruno]], a higher up member of the Ratti mafia family.
 
