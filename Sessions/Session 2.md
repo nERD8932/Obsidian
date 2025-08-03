@@ -42,7 +42,7 @@ With all their powers combined (Guidance, Bardic Inspiration, and Inspiration In
 Aethian Make
 of the Blood God, Varkanus
 
-![[../Images/Vstatue.png]]
+![Varkanus Statuette](/Images/Vstatue.png)
 
 Vetri takes the statuette with doubly gloved hands.
 
