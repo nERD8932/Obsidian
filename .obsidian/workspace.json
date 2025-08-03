@@ -11,14 +11,14 @@
             "id": "88fbfe3d6b2e3463",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Sessions/Session 1.md",
-                "bFile": "Sessions/Session 1.md",
-                "aRef": ""
+                "file": "Sessions/Session 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Session 1"
+              "icon": "lucide-file",
+              "title": "Session 2"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8797f053c77addf2",
@@ -147,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "585937958dbfb5b3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 672.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,9 +176,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88fbfe3d6b2e3463",
+  "active": "f4c8676fd3ac0385",
   "lastOpenFiles": [
+    "Images/Vstatue.png",
     "Sessions/Session 1.md",
+    "Sessions/Session 2.md",
+    "Richard Rorax.md",
+    "Rorax.md",
+    "Party/Silvius.md",
+    "Party/Edgar.md",
+    "Sombus Archaeological Society.md",
+    "Party/Vetri.md",
+    "Party/Miri.md",
+    "Party/Esther.md",
+    "Party/Cedrik.md",
+    "Party",
+    "Oscar Ortez.md",
+    "Martin Candlewynd.md",
+    "Luciano.md",
+    "Carminus/Norah Ward.md",
+    "Carminus/Loras Runestrong.md",
+    "Carminus/Clara Gwynne.md",
+    "Carminus/Carminus Universum.md",
+    "Carminus",
+    "Azukk Tuskon.md",
+    "README.md",
+    "Images/Cedrik Gwynne.png",
     "Images/IMG_20250727_012522.png",
     "Images/SirCedrikGwynne.png",
     "Images/Oscar1nicholas-swigart.jpg",

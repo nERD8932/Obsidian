@@ -10,7 +10,7 @@ We see [[Esther]] and [[Miri]] discussing the disappearance of [[Luciano]]. They
 
 [[Norah Ward]] informs [[Silvius]] of chatter about a murder near the docks, where apparently, [[Loras Runestrong]] was headed. Norah distracts some guards to help Silvius escape towards the dock to check up on Loras.
 
-We then pan over to [[Edgar]] who also hears news of a murder. His presence is being requested by inspector Richard Rorax. He heads to the scene of the crime.
+We then pan over to [[Edgar]] who also hears news of a murder. His presence is being requested by inspector [[Richard Rorax]]. He heads to the scene of the crime.
 
 Everyone seems to head towards the Warehouse in Old Warf, the dock.
 
