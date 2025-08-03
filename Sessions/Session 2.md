@@ -1,13 +1,13 @@
 We begin with a slight retcon. We see [[Cedrik]] wake up in the morning after the warehouse incidentᵀᴹ. Cedrick hears a strange but familiar voice saying "It has been a while hasn't it?". Cedrick, startled, but unsurprised responds. The entity talks about how Cedrick seems to forget them when convenient. Cedrick asks what it wants, to which it says "You know what I want.". Cedrick refuses, seemingly as usual. The entity talks about its immortality at which point Cedrik hits his head on the wall, and the voice stops.
 
-We jump back to the living room where [[Richard Rorax]] is waiting for them. Rorax reassures everyone that no-one here is a suspect, but asks everyone to clarify their relations to the deceased one again, just to make sure. Everyone clarifies their relations. Vetri ends up divulging her encounter in the ware house. Silvius also mentions Cedrik and his encounter in the art studio. Miri unintentionally divulges Esther and their weird encounter with the abyssal monstrosity. 
+We jump back to the living room where [[Richard Rorax]] is waiting for them. Rorax reassures everyone that no-one here is a suspect, but asks everyone to clarify their relations to the deceased one again, just to make sure. Everyone clarifies their relations. Vetri ends up divulging her encounter in the ware house. Silvius also mentions Cedrik and their encounter in the art studio at Carminus. Miri unintentionally divulges Esther and their weird encounter with the abyssal monstrosity. 
 
 Rorax summarizes the events that took place late last night (or early morning, technically). He also mentions that the police seem to be uninterested in investigating this further, deeming the incident "a mafia meeting gone wrong". Silvius takes issue to their lack of interest, which Esther finds amusing. Ester has Rorax light a cigarette, and exclaims "and we have an alliance". Rorax gives everyone sending stones (read Walkie-Talkie), and tells the party to feel free to investigate further, since they're the only ones interested. Everyone is agrees. 
 
 Silvius calls out Roraxs' thinly veiled racism, as he leaves.
 
 He also introduces [[Gailhel 'Gail' Redeye]], a drow investigator of the central district of the city. 
-Both Vetri and Esther know of her, and know her to have contacts. 
+Both Vetri and Esther know of her, and know her to have "contacts". 
 
 Once everyone leaves, Edgar asks Cedrik for a private conversation. They discuss how Cedrik seems pale since the morning, which he promptly brushes off. Edgar also tells Cedrik that he can be trusted. Cedrik vaguely clarifies his "situation". Edgar lets Cedrik know that it would be better if he were to open up to everyone. They also talk about the case at hand, and how Edgars father, [[Allan Starling]]s' journal may give some insights into the case. 
 
