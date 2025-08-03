@@ -33,8 +33,7 @@ They get stopped by a Clockwork archivist, but again deceive their way past it. 
 
 They find a live portrait of Martin painted by Silvius' parents. They question the portrait, which Miri intimidates into telling the truth. They find that the police has already been there, and has taken some letters and 3 books already, which is why they found the office to be devoid of any important information.  They contact the other group and head to Martins house in Hyrden.
 
-After catching up, Silvius paints himself to look like Inspector Richard Rorax, and deceives the receptionist into giving them the key to the apartment. They enter and start investigating. Esther finds 
-Ester finds 10 gold bars, and Vetri finds a hidden room that has a tonne of documents and a safe.
+After catching up, Silvius paints himself to look like Inspector Richard Rorax, and deceives the receptionist into giving them the key to the apartment. They enter and start investigating. Esther finds 10 gold bars, and Vetri finds a hidden room that has a tonne of documents and a safe.
 
 With all their powers combined (Guidance, Bardic Inspiration, and Inspiration Inspiration), they open the safe. They find money, more documents and a statuette artifact:
 
