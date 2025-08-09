@@ -1,3 +1,4 @@
 
 
-[Latest Session Notes](/Sessions/Session%202.md)
+[Latest Session Notes](/Sessions/Session%203.md)
+
