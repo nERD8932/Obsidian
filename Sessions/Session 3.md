@@ -42,7 +42,7 @@ Silvius and Vetri try to set off a cannon in the room,
 
 Cedrik is mortally wounded, and in response lets the entity, now known as KARAEL, out, to use his power.
 
-Silvius sets off the cannon and does 34 damage to the Dino,
+Silvius sets off the cannon and does 68 damage to the T-Rex
 
 Edgar gets the final blow on the T-Rex, and Vetri gets the final blow on the Archivist.
 
