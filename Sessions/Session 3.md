@@ -57,4 +57,4 @@ When the three Artificers inspect the body of the archivist, its made clear that
 
 The gang mentions their encounter with a cult of Varkanus. Xoe talks about her experience with similar cults of Varkanus, where her previous master, Naoko Genso, became a devotee of Varkanus. She also talks about investigating another lead.
 
-The session ends when the gang decide to leave Xoe to her devices (literally) so that she can fix the Cogworks Archivist.
+The session ends when the gang decide to leave Xoe to her devices (literally) so that she can fix the Cogworks Archivist. Esther however, did end up going back for a second to say her goodbyes to Xoe properly.
