@@ -58,8 +58,16 @@ Carlos sticks a dynamite in Edgars mouth, which is promptly put out by Bruno.
 They head inside the chapel. Other people they notice:
 
 Kaya Nezumi (groom)
+![../Images/Kaya1.jpg](/Images/Kaya1.jpg)
+
+
 Rosina Ratti (younger daughter)
+![../Images/Rosina1gompani.jpg](/Images/Rosina1gompani.jpg)
+
+
 Rico Ratti Jr (Don's son)
+![../Images/RicoJr1.png](/Images/RicoJr1.png)
+
 
 Carlos leads them to the Don. They see the Don talking to Svazzall, the owner of the Planar Pub. Svazzall greets Cedrik and then heads out.
 
