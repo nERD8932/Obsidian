@@ -3,7 +3,7 @@ We start the session with Edgar, who headed back to Castella after the team went
 He jump scares Rorax, who is enjoying a sausage. Edgar tells him about Gails' relation to the cult of Varkanus, and how they killed themselves. He also shows Rorax the sketch Silvius drew of the crime scene. Rorax seemed convinced, and says that he'll keep this information to himself.
 
 We then jump to The Gwynne manor, where we see Cedrik trying to make contact with Karael, the fallen angel inside him.
-![[../Images/Sir_Cedric_Gwynne_Archon.jpg]]
+![../Images/Sir_Cedric_Gwynne_Archon.jpg](/Images/Sir_Cedric_Gwynne_Archon.jpg)
 (forgot to add this last session, sorry Vijay!)
 
 Karael had promised Cedrick "knowledge". Cedrick asks Karael about the letter they found from Martin's vault, instructing him to meet with Varkanus again. Karael determines regardless of the authenticity of this letter, it doesn't seem good. He also says Cedrick would find his answer deep under the city. He also talks about a ritual that would help make Cedrik's "flame" stronger. He mentions a few items that he would need to burn to conduct the ritual:
