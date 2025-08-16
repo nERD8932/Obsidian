@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 3.md",
+                "file": "Sessions/Session 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3"
+              "title": "Session 4"
             }
           }
         ],
@@ -216,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,16 +231,23 @@
   },
   "active": "0ea3160e357fc6b0",
   "lastOpenFiles": [
+    "Images/Mya1rykasi.jpg",
+    "Images/carlos1.jpg",
+    "Images/jamison1.jpg",
+    "Images/fairytale.png",
+    "Images/wiseguy.png",
+    "Images/Esmeralda1Jabari.jpg",
+    "Sessions/Session 0A.md",
+    "Sessions/Session 4.md",
+    "Images/Triston1.jpg",
+    "Images/Selda1.jpg",
+    "Images/Sir_Cedric_Gwynne_Archon.jpg",
+    "Sessions/Session 3.md",
+    "Sessions/Session 2.md",
     "Images/op_xoe.png",
     "Images/Xoe1.png",
-    "Sessions/Session 3.md",
     "Varkanus.md",
-    "Images/Varkanus1.jpg",
-    "Images/Varkanus11.png",
     "Sessions/Session 1.md",
-    "Images/XarkosLetter1.png",
-    "Sessions/Session 2.md",
-    "Images/Vstatue.png",
     "Richard Rorax.md",
     "Rorax.md",
     "Party/Silvius.md",
@@ -260,10 +267,6 @@
     "Carminus/Carminus Universum.md",
     "Carminus",
     "Azukk Tuskon.md",
-    "README.md",
-    "Images/Cedrik Gwynne.png",
-    "Images/IMG_20250727_012522.png",
-    "Images/SirCedrikGwynne.png",
-    "Images/Oscar1nicholas-swigart.jpg"
+    "README.md"
   ]
 }
