@@ -81,4 +81,6 @@ Carlos manages to distract the other people there enough to allow Esther to brea
 
 They decided the best way to escape was to squeeze through the disgusting sewage pipes.
 
-While they're crawling inside the pipe, the pipe creaks, and then proceeds the break. They fall into some sewage water in complete darkness. The area is surrounded with giant cockroaches. Combat ensues. Esther helped navigate everyone, and Edgar cast light to illuminate the area.
+While they're crawling inside the pipe, the pipe creaks, and then proceeds the break. They fall into some sewage water in complete darkness. The area is surrounded with giant cockroaches. Combat ensues. Esther helped navigate everyone, and Edgar cast light to illuminate the area. 
+
+They kill the cockroaches and combat ends. They then carry themselves and Carlos out of the sewer and through Crystal River, and employed a nearby boatsman to transport them over to Gwynne manor. The session ends with a constitution check, which Cedrick fails, resulting in him getting flesh rot.
