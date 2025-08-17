@@ -17,7 +17,7 @@ The only item that he didn't have access to was the ash from an evil humanoid. B
 
 We then jump to Silvius, on the next day. He sees Nora being cornered by a common acquaintance, Selda Hightower; Noble Cleric Student
 
-![[../Images/Selda1.jpg]]
+![../Images/Selda1.jpg](/Images/Selda1.jpg)
 
 Selda seems to be bullying Nora about the rumor that Sir Cedrik Gwynne offered to sponsor Nora. SIlvius tries to invervene and convinces Selda that he did infact offer to sponsor Nora. She believes him and heads off with her lackeys. Nora seems kind of annoyed about Silvius intervening, and heads off to eat her lunch. 
 
