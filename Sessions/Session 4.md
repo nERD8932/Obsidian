@@ -38,7 +38,7 @@ Esmeralda went up to Esther to pay her condolences. They talk about the Ratti fa
 ![../Images/wiseguy.png](/Images/wiseguy.png)
 
 
-She also gives Miri something Luciano's commissioned for them; a performance outfit
+She also gives Miri something Luciano commissioned for them; a performance outfit
 
 ![../fairytale.png](/Images/fairytale.png)
 
@@ -54,7 +54,8 @@ Carlos
 
 ![../Images/carlos1.jpg](/Images/carlos1.jpg)
 
-Carlos sticks a dynamite in Edgars mouth, which is promptly put out by Bruno.
+Jameson sticks a dynamite in Edgars mouth, which is promptly put out by Bruno.
+
 They head inside the chapel. Other people they notice:
 
 Kaya Nezumi (groom)
@@ -72,26 +73,36 @@ Rico Ratti Jr (Don's son)
 ![../Images/RicoJr1.png](/Images/RicoJr1.png)
 
 
-Carlos leads them to the Don. They see the Don talking to Svazzall, the owner of the Planar Pub. Svazzall greets Cedrik and then heads out.
+Carlos leads them to the Don. They see the Don talking to Svazzall, the owner of the Planar Pub. The Don seems to have asked something of Svazzall, which he  readily accepts. On his way out, Svazzall greets Cedrik and goes off to where the festivities are.
 
-Don Ratti greets Esther "Alfieri", confused as to why she hasn't already been promoted to capo. He also offers his condolences regarding Luciano. The party members introduce themselves. Esther talks about how Don Ratti's men knew Luciano were at the Old Warf. Don Ratti refuses to give up his sources. 
+Don Ratti greets Esther "Alfieri",  and seemed confused as to why she hasn't already been promoted to capo. He also offers his condolences regarding Luciano. 
+
+The party members introduce themselves. Silvius avoids mentioning his last name to remain some what anonymous.
+
+Esther talks about how Don Ratti's men knew Luciano was at the Old Warf. Don Ratti refuses to give up his sources. 
 
 Miri with the help of Silvius ends up convincing the Don to give them some information. He tells them that that his son was incharge of the raid on the harbour. 
 
 The gang ends up joining the festivities. After a few hours, Cedrik notices Ratti Jr sneaking out of the chapel. The gang follows him. On their way there, they get ambushed by Carlos, who throws a poison bomb that does 40 damage to most of the gang. Combat ensues. Silvius, Miri and Edgar survive the attack, while Esther and Cedrik get downed. Edgar uses an ability that switches his initiative with Silvius, who then twin casts cure wounds and brings his two teammates back up. Cedrick, Esther and Edgar then do a tonne of damage to the enemies. After an arduous combat,  Esther takes Carlos out.
 
-They decide to follow Ratti Jr's trail, and take the unconscious Carlos with them. The trail leads them to a prison inside the sewers. There they  decide to take a short rest and interrogate Carlos. Carlos doesn't give much information, other than the fact that Don Ratti is unaware of what Ratti Jrs. is doing in the prision and in general. Then the piece of shit rat mo- sorry. Carlos screams out to alert the prison guards. Cedrik disguises himself as Carlos as he heads towards the prison to calm the guards coming out. Esther is turned invisible by Miri and sneaks inside the prison where "Carlos" is in the process of spinning absurd lies which everyone seems to believe.
+They decide to follow Ratti Jr's trail, and take the unconscious Carlos with them. The trail leads them to a prison inside the sewers. There they  decide to take a short rest and interrogate Carlos. Carlos doesn't give much information, other than the fact that Don Ratti is unaware of what Ratti Jrs. is doing in this prision, or in general. Then the piece of shit rat mo- sorry. Carlos screams out to alert the prison guards. Cedrik disguises himself as Carlos as he heads towards the prison to calm the guards coming out. Esther is turned invisible by Miri and sneaks inside the prison, where "Carlos" is in the process of spinning absurd lies which everyone seems to believe.
 
-"Carlos" talks to Ratti Jr. who mentions that his "friends" would prefer the party dead regardless of whether they know the secrets of this prision. He orders "Carlos" to kill the party as soon as possible. 
+"Carlos" talks to Ratti Jr. who mentions that his "friends" would prefer the party dead regardless of whether or not they know the secrets of this prision. He orders "Carlos" to kill the party as soon as possible. 
 
 After some more lying, Esther and "Carlos" find Mya, an enforcer in the House of Rust, in one of the prisons. 
 ![../Images/Mya1rykasi.jpg](/Images/Mya1rykasi.jpg)
 
 
-Carlos manages to distract the other people there enough to allow Esther to break Mya out of the prison. The party then meets up, with a newly freed Mya and a gagged and tied Carlos. 
+Carlos manages to distract the other people there enough to allow Esther to break Mya out of the prison. 
+
+The party then meets up, with a newly freed Mya and a gagged and tied Carlos. 
 
 They decided the best way to escape was to squeeze through the disgusting sewage pipes.
 
-While they're crawling inside the pipe, the pipe creaks, and then proceeds the break. They fall into some sewage water in complete darkness. The area is surrounded with giant cockroaches. Combat ensues. Esther helped navigate everyone, and Edgar cast light to illuminate the area. 
+While they're crawling inside the pipe, the pipe creaks, and then proceeds the break. They fall into some sewage water in complete darkness. The area is surrounded with giant cockroaches. Combat ensues.
 
-They kill the cockroaches and combat ends. They then carry themselves and Carlos out of the sewer and through Crystal River, and employed a nearby boatsman to transport them over to Gwynne manor. The session ends with a constitution check, which Cedrick fails, resulting in him getting flesh rot.
+Esther helpd navigate everyone, and Edgar casts light to illuminate the area. 
+
+They kill the cockroaches and combat ends. They then carry themselves and Carlos out of the sewer and through Crystal River, and employed a nearby boatsman to transport them over to Gwynne manor. 
+
+The session ends with a constitution check, which Cedrick fails, resulting in him getting flesh rot.
