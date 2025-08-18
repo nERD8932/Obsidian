@@ -93,7 +93,7 @@ After some more lying, Esther and "Carlos" find Mya, an enforcer in the House of
 ![../Images/Mya1rykasi.jpg](/Images/Mya1rykasi.jpg)
 
 
-Carlos manages to distract the other people there enough to allow Esther to break Mya out of the prison. 
+"Carlos" manages to distract the other people there enough to allow Esther to break Mya out of the prison. 
 
 The party then meets up, with a newly freed Mya and a gagged and tied Carlos. 
 
@@ -101,7 +101,7 @@ They decided the best way to escape was to squeeze through the disgusting sewage
 
 While they're crawling inside the pipe, the pipe creaks, and then proceeds the break. They fall into some sewage water in complete darkness. The area is surrounded with giant cockroaches. Combat ensues.
 
-Esther helpd navigate everyone, and Edgar casts light to illuminate the area. 
+Esther helps orient everyone, and Edgar casts light to illuminate the area. 
 
 They kill the cockroaches and combat ends. They then carry themselves and Carlos out of the sewer and through Crystal River, and employed a nearby boatsman to transport them over to Gwynne manor. 
 
