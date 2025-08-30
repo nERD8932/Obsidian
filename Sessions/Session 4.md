@@ -54,7 +54,7 @@ Carlos
 
 ![../Images/carlos1.jpg](/Images/carlos1.jpg)
 
-Carlos sticks a dynamite in Edgars mouth, which is promptly put out by Bruno.
+Jameson sticks a dynamite in Edgars mouth, which is promptly put out by Bruno.
 They head inside the chapel. Other people they notice:
 
 Kaya Nezumi (groom)
