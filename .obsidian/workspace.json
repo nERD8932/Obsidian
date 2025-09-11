@@ -13,12 +13,12 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "aFile": "Carminus/Norah Ward.md",
-                "bFile": "Carminus/Norah Ward.md",
+                "aFile": "Carminus/Carminus Universum.md",
+                "bFile": "Carminus/Carminus Universum.md",
                 "aRef": ""
               },
               "icon": "git-pull-request",
-              "title": "Diff: Norah Ward"
+              "title": "Diff: Carminus Universum"
             }
           }
         ]
@@ -180,8 +180,9 @@
   "active": "25badc6cb395b5b4",
   "lastOpenFiles": [
     "Carminus/Clara Gwynne.md",
-    "Carminus/Carminus Universum.md",
+    "Party/Cedrik.md",
     "Carminus/Selda Hightower.md",
+    "Carminus/Carminus Universum.md",
     "Sessions/Session 6.md",
     "assessment.png",
     "Sessions/Session 1.md",
@@ -199,7 +200,6 @@
     "Party/Miri.md",
     "Party/Esther.md",
     "Party/Edgar.md",
-    "Party/Cedrik.md",
     "Carminus/Triston Hightower.md",
     "Carminus/Norah Ward.md",
     "Carminus/Loras Runestrong.md",
