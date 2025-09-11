@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "295e6f69fe9d8e3d",
+        "id": "2a72eaa50e499064",
         "type": "tabs",
         "children": [
           {
-            "id": "25badc6cb395b5b4",
+            "id": "7d6f670e124924bf",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Carminus/Carminus Universum.md",
-                "bFile": "Carminus/Carminus Universum.md",
-                "aRef": ""
+                "file": "Sessions/Session 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: Carminus Universum"
+              "icon": "lucide-file",
+              "title": "Session 6"
             }
           }
         ]
@@ -177,13 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25badc6cb395b5b4",
+  "active": "7d6f670e124924bf",
   "lastOpenFiles": [
+    "The City/Rico Ratti Jr.md",
+    "Sessions/Session 6.md",
+    "The City/Rico Ratti Jrmd.md",
+    "Carminus/Carminus Universum.md",
     "Carminus/Clara Gwynne.md",
     "Party/Cedrik.md",
     "Carminus/Selda Hightower.md",
-    "Carminus/Carminus Universum.md",
-    "Sessions/Session 6.md",
     "assessment.png",
     "Sessions/Session 1.md",
     "Obsidian.py",
@@ -208,7 +210,6 @@
     "The City/Azukk Tuskon.md",
     "README.md",
     "Images/Yulis1.png",
-    "The City/Rico Ratti Jr..md",
     "Images/esther_bishop_hunter.png",
     "The City",
     "Images/Hana1.jpg",
