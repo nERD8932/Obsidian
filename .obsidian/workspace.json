@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 6.md",
+                "file": "The City/Azukk Tuskon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 6"
+              "title": "Azukk Tuskon"
             }
           }
         ]
@@ -177,11 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4c8676fd3ac0385",
+  "active": "25badc6cb395b5b4",
   "lastOpenFiles": [
+    "README.md",
+    "The City/Azukk Tuskon.md",
+    "Sessions/Session 6.md",
     "Images/Yulis1.png",
     "The City/Rico Ratti Jr..md",
-    "Sessions/Session 6.md",
     "Party/Vetri.md",
     "Party/Silvius.md",
     "Party/Miri.md",
@@ -200,10 +202,8 @@
     "The City/Oscar Ortez.md",
     "The City/Varkanus.md",
     "The City/Sombus Archaeological Society.md",
-    "README.md",
     "The City/Martin Candlewynd.md",
     "The City/Luciano.md",
-    "The City/Azukk Tuskon.md",
     "Carminus/Selda Hightower.md",
     "Carminus/Triston Hightower.md",
     "The City",
@@ -215,7 +215,6 @@
     "Images/Rosina1gompani.jpg",
     "Images/RicoJr1.png",
     "Images/Kaya1.jpg",
-    "Images/Mya1rykasi.jpg",
     "Party",
     "Carminus"
   ]
