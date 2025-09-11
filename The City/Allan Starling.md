@@ -1,0 +1,1 @@
+[[Party/Edgar|Edgar]]'s Father. Seemingly commit suicide years ago, but Edgar disagrees, and claims something shady was going on.

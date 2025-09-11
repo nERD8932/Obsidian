@@ -1,3 +1,3 @@
 Vetri Aisana Yildiz, 20-something F, Archivist 
 ![[Vetri1.png]]
-A member of the [[Sombus Archaeological Society]], along with [[Oscar Ortez]].
+A member of the [[../The City/Sombus Archaeological Society|Sombus Archaeological Society]], along with [[../The City/Oscar Ortez|Oscar Ortez]].

@@ -24,7 +24,7 @@ Silvius sketches the scene, and casts prestidigitation on everyone, and everyone
 
 Miri goes back to her parents and lets them know they're fine
 
-Esther, on finding that Don Rubino isn't in town right now, lets Terzo Sombosso know of the situation, who lets her know that incase there is a fight with the Rattis, she needs to conceal the fact that shes a Rubino
+Esther, on finding that Don Rubino isn't in town right now, lets Terzo Sombosso know of the situation, who lets her know that incase there is a fight with the Rattis, she needs to conceal the fact that shes a Rubino.
 
 Cedrik has another conversation with the entity inside him. It admits that it doesn't want Cedrik to die just yet. It tries to convince Cedrik to give him control, in order to protect them both. He also talks to his butler
 

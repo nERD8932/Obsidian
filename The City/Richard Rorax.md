@@ -1,0 +1,1 @@
+A detective in the Sombus Police force. He's actively helping the party in their mission to uncover the cults activities in Sombus, claiming that the police themselves are uninterested and won't be able to do as much as them.
