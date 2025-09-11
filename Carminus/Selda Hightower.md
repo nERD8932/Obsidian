@@ -1,6 +1,6 @@
 Noble Cleric Student, 21F
 
-![../Images/Selda1.jpg](/Images/Selda1.jpg)
+![/Images/Selda1.jpg](/Images/Selda1.jpg)
 
 
 Selda Hightower, daughter of [[Triston Hightower]], is a student at [[Carminus Universum]]. She's a rude high born, who tries to bully people along with her lackeys.
