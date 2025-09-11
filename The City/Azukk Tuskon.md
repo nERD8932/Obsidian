@@ -1,3 +1,3 @@
-[[Cedrik]]'s butler.
+[Cedrik](/Party/Cedrik.md)'s butler.
 
-![[Azukk Tuskon.jpg]]
+![Azukk Tuskon.jpg](/The%20City/Azukk%20Tuskon.md)

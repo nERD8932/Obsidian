@@ -3,7 +3,7 @@ We start the session with Edgar, who headed back to Castella after the team went
 He jump scares Rorax, who is enjoying a sausage. Edgar tells him about Gails' relation to the cult of Varkanus, and how they killed themselves. He also shows Rorax the sketch Silvius drew of the crime scene. Rorax seemed convinced, and says that he'll keep this information to himself.
 
 We then jump to The Gwynne manor, where we see Cedrik trying to make contact with Karael, the fallen angel inside him.
-![../Images/Sir_Cedric_Gwynne_Archon.jpg](/Images/Sir_Cedric_Gwynne_Archon.jpg)
+![/Images/Sir_Cedric_Gwynne_Archon.jpg](/Images/Sir_Cedric_Gwynne_Archon.jpg)
 (forgot to add this last session, sorry Vijay!)
 
 Karael had promised Cedrick "knowledge". Cedrick asks Karael about the letter they found from Martin's vault, instructing him to meet with Varkanus again. Karael determines regardless of the authenticity of this letter, it doesn't seem good. He also says Cedrick would find his answer deep under the city. He also talks about a ritual that would help make Cedrik's "flame" stronger. He mentions a few items that he would need to burn to conduct the ritual:
@@ -17,13 +17,13 @@ The only item that he didn't have access to was the ash from an evil humanoid. B
 
 We then jump to Silvius, on the next day. He sees Nora being cornered by a common acquaintance, Selda Hightower; Noble Cleric Student
 
-![../Images/Selda1.jpg](/Images/Selda1.jpg)
+![/Images/Selda1.jpg](/Images/Selda1.jpg)
 
 Selda seems to be bullying Nora about the rumor that Sir Cedrik Gwynne offered to sponsor Nora. SIlvius tries to invervene and convinces Selda that he did infact offer to sponsor Nora. She believes him and heads off with her lackeys. Nora seems kind of annoyed about Silvius intervening, and heads off to eat her lunch. 
 
 Silvius heads to Professor Hightower's office, to ask him about the cult of Varkanus. 
 
-![../Images/Triston1.jpg](/Images/Triston1.jpg)
+![/Images/Triston1.jpg](/Images/Triston1.jpg)
 Professor Triston Hightower; Professor of Divine Studies & Planes
 
 In his office, he finds Triston and Professor Clara having tea. Silvius asks professor Hightower about the cult of Varkanus and its presence in Sombus. He tells Silvius that the cult has not been active for at least the past sixty years. When Silvius mentions Gail killing herself, Hightower seems palpably interested. He tries to push Silvius to reveal more information, but is bailed out by Clara, who tells him to go eat lunch.
@@ -32,15 +32,15 @@ We now cut to Esther and Miri, who're at Luciano's funeral ceremony. Esther meet
 
 They then meet the four capos of the Rubino empire, Terzo Sombosso, Basilio Tortuga, Gianna Giasivi and Esmeralda Castrillo.
 
-![../Esmeralda1Jabari.jpg](/Images/Esmeralda1Jabari.jpg)
+![/Esmeralda1Jabari.jpg](/Images/Esmeralda1Jabari.jpg)
 
 Esmeralda went up to Esther to pay her condolences. They talk about the Ratti families connection to Luciano's death. Miri realizes that Esmeralda was regular at the club where they perform their shows. They also talk about the Ratti wedding that Esther and Miri plan on attending. Esmeralda entrusts Esther with Luciano's ring,
-![../Images/wiseguy.png](/Images/wiseguy.png)
+![/Images/wiseguy.png](/Images/wiseguy.png)
 
 
 She also gives Miri something Luciano commissioned for them; a performance outfit
 
-![../fairytale.png](/Images/fairytale.png)
+![/fairytale.png](/Images/fairytale.png)
 
 Esmeralda mentions how they plan on promoting Esther to capo, and give her ownership of the club. Esther is hesitant, claiming she know if she's ready for the responsibility, and asks Esmeralda to wait till the Don returns. She reluctantly agrees.
 
@@ -48,11 +48,11 @@ The next day, everyone dresses up for the wedding. Edgar has to ask his land lad
 
 Jameson
 
-![../Images/jamison1.jpg](/Images/jamison1.jpg)
+![/Images/jamison1.jpg](/Images/jamison1.jpg)
 
 Carlos
 
-![../Images/carlos1.jpg](/Images/carlos1.jpg)
+![/Images/carlos1.jpg](/Images/carlos1.jpg)
 
 Jameson sticks a dynamite in Edgars mouth, which is promptly put out by Bruno.
 
@@ -60,17 +60,17 @@ They head inside the chapel. Other people they notice:
 
 Kaya Nezumi (groom)
 
-![../Images/Kaya1.jpg](/Images/Kaya1.jpg)
+![/Images/Kaya1.jpg](/Images/Kaya1.jpg)
 
 
 Rosina Ratti (younger daughter)
 
-![../Images/Rosina1gompani.jpg](/Images/Rosina1gompani.jpg)
+![/Images/Rosina1gompani.jpg](/Images/Rosina1gompani.jpg)
 
 
 Rico Ratti Jr (Don's son)
 
-![../Images/RicoJr1.png](/Images/RicoJr1.png)
+![/Images/RicoJr1.png](/Images/RicoJr1.png)
 
 
 Carlos leads them to the Don. They see the Don talking to Svazzall, the owner of the Planar Pub. The Don seems to have asked something of Svazzall, which he  readily accepts. On his way out, Svazzall greets Cedrik and goes off to where the festivities are.
@@ -90,7 +90,7 @@ They decide to follow Ratti Jr's trail, and take the unconscious Carlos with the
 "Carlos" talks to Ratti Jr. who mentions that his "friends" would prefer the party dead regardless of whether or not they know the secrets of this prision. He orders "Carlos" to kill the party as soon as possible. 
 
 After some more lying, Esther and "Carlos" find Mya, an enforcer in the House of Rust, in one of the prisons. 
-![../Images/Mya1rykasi.jpg](/Images/Mya1rykasi.jpg)
+![/Images/Mya1rykasi.jpg](/Images/Mya1rykasi.jpg)
 
 
 "Carlos" manages to distract the other people there enough to allow Esther to break Mya out of the prison. 

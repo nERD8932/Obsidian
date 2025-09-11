@@ -1,8 +1,8 @@
-[[Cedrik]] gives lecture at the University when asked by [[Clara Gwynne]]
+[Cedrik](/Party/Cedrik.md) gives lecture at the University when asked by [Clara Gwynne](/Images/Clara%20Gwynne.jpg)
 
 The lecture went well, Norah and Silvius approached Cedrik afterwards.
 
-[[Norah Ward]] and [[Silvius]] take Cedrik to their studio after the lecture 
+[Norah Ward](/Images/Norah%20Ward.jpg) and [Silvius](/Party/Silvius.md) take Cedrik to their studio after the lecture 
 
 Norah nudges Silvius to draw Cedrik, which results in Silvius's magic and Cedriks "true form"s magic to intermingle and end up forming this goopy paint abomination 
 

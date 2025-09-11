@@ -11,7 +11,7 @@ After extracting all the information they can, the gang discusses what to actual
 In the meantime, Tuskon returns with Vetri's dad, 
 
 Rakta Varkan Yildiz, Senior Doctor at the Sombus General Hospital
-![../Images/Rakta1.jpg](/Images/Rakta1.jpg)
+![/Images/Rakta1.jpg](/Images/Rakta1.jpg)
 
 Rakta looks over Cedrik while they make some extremely awkward conversation. He then takes out a vial of Cure Disease, and asks Cedrik about how he caught this disease. Cedrik lies about how ended up in sewage. Rakta instructs Cedrik to take care of himself due to his old age, and then leaves.
 
@@ -21,21 +21,21 @@ They meet up with Cedrik and Vetri. Vetri looks like she just swam through sewag
 
 The gang discusses selling off the spoils of war theyve collected over the past few days. Silvius mentions he needs to replenish is paining supplies. Cedrik tells him Clara left some supplies in her studio, and told him to help himself to anything. Silvius takes him up on that, and ends up finding:
 
-![../Images/wonderouspalette.png](/Images/wonderouspalette.png)
+![/Images/wonderouspalette.png](/Images/wonderouspalette.png)
 
 Vetri receives word from Xoe about an updat she has about the Cogwork Archivist. They then head to Yizuko Labs, to talk to Xoe. She said she looked up the original blueprints, and cross-referenced it with the body of the archivist. She saw that there was a single modification, a small pink psionic shard, which the rouge artificer must have used to control the archivist. Xoe also reversed the polarity of the crystal, which now will resonate if it is in proximity to its counterpart.
 
 They assume that an artificer from the museum could have intimate enough access to the archivists to be able to modify them in this way, and decide to visit the museum sometime.
 
 Xoe also gives Vetri some gloves she said might help her:
-![../Images/shootinggloves.png](/Images/shootinggloves.png)
+![/Images/shootinggloves.png](/Images/shootinggloves.png)
 She also gives Esther a weapon Esther seemed to have spoken to her about back when they were together:
-![../Images/planarcirque.png](/Images/planarcirque.png)
+![/Images/planarcirque.png](/Images/planarcirque.png)
 
 After giving Esther and Xoe a slightly hard time, the gang travels to Lighton to meet Esther's contact for illegal magic items, 
 
 Kumoko Hana, Jorōgumo Yokai
-![../Images/Hana1.jpg](/Images/Hana1.jpg)
+![/Images/Hana1.jpg](/Images/Hana1.jpg)
 
 Everyone buys upgrades for themselves after selling off the gold bars and other items.
 

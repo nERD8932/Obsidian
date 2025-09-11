@@ -1,3 +1,3 @@
-Member of [[Esther]]'s mafia gang, the Rubino Family.
+Member of [Esther](/Party/Esther.md)'s mafia gang, the Rubino Family.
 
-In [[../Sessions/Session 1|Session 1]], he was found dead alongside [[Martin Candlewynd]] and [[../Carminus/Loras Runestrong|Loras Runestrong]].
+In [Session 1](/Sessions/Session%201.md), he was found dead alongside [Martin Candlewynd](/The%20City/Martin%20Candlewynd.md) and [Loras Runestrong](/Images/Loras%20Runestrong.jpg).

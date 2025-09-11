@@ -1,16 +1,16 @@
 We start off at the Gwynne mansion.
 
-[[Cedrik]]'s butler tells him about a letter that seems to have arrived late. The letter was from Martin, a friend of Cedriks talking about an artifact he borrowed from him, and a meeting with a person he "doesn't trust".
+[Cedrik](/Party/Cedrik.md)'s butler tells him about a letter that seems to have arrived late. The letter was from Martin, a friend of Cedriks talking about an artifact he borrowed from him, and a meeting with a person he "doesn't trust".
 ![MartinLetter1.png](/Images/MartinLetter1.png)
 We then pan over to the east (also shitty) district of Fayshine, in the mafia casino of the Rubio family.
 
-We see [[Esther]] and [[Miri]] discussing the disappearance of [[../The City/Luciano|Luciano]]. They hear of some disturbance in the west side of the city. Miri gets paid their gold, and Esther plans on going there herself to find Luciano. Miri ends up tailing Esther on her way there.
+We see [Esther](/Party/Esther.md) and [Miri](/Party/Miri.md) discussing the disappearance of [Luciano](/The%20City/Luciano.md). They hear of some disturbance in the west side of the city. Miri gets paid their gold, and Esther plans on going there herself to find Luciano. Miri ends up tailing Esther on her way there.
 
-[[Vetri]] hears similar news in the [[../The City/Sombus Archaeological Society|Sombus Archaeological Society]] and heads there with [[../The City/Oscar Ortez|Oscar Ortez]] after convincing him with a nat-20.
+[Vetri](/Party/Vetri.md) hears similar news in the [Sombus Archaeological Society](/The%20City/Sombus%20Archaeological%20Society.md) and heads there with [Oscar Ortez](/The%20City/Oscar%20Ortez.md) after convincing him with a nat-20.
 
-[[Norah Ward]] informs [[Silvius]] of chatter about a murder near the docks, where apparently, [[Loras Runestrong]] was headed. Norah distracts some guards to help Silvius escape towards the dock to check up on Loras.
+[Norah Ward](/Images/Norah%20Ward.jpg) informs [Silvius](/Party/Silvius.md) of chatter about a murder near the docks, where apparently, [Loras Runestrong](/Images/Loras%20Runestrong.jpg) was headed. Norah distracts some guards to help Silvius escape towards the dock to check up on Loras.
 
-We then pan over to [[Edgar]] who also hears news of a murder. His presence is being requested by inspector [[../The City/Richard Rorax|Richard Rorax]]. He heads to the scene of the crime.
+We then pan over to [Edgar](/Party/Edgar.md) who also hears news of a murder. His presence is being requested by inspector [Richard Rorax](/The%20City/Richard%20Rorax.md). He heads to the scene of the crime.
 
 Everyone seems to head towards the Warehouse in Old Warf, the dock.
 
@@ -22,7 +22,7 @@ The two groups meet and head inside the warehouse after talking for a bit.
 
 Simultaneously, Esther and Miri sneak past some guards (after Esther goes off on Miri for tailing her) and head inside after Esther picks the back door lock.
 
-Inside the find the dead bodies of [[Loras Runestrong]], [[../The City/Martin Candlewynd|Martin Candlewynd]] and [[../The City/Luciano|Luciano]]. The dead bodies are inside a pool of black ooze. Edgar with a good investigation check claims that they died to necrotic damage, and that there was a fourth person here, who was likely the culprit.
+Inside the find the dead bodies of [Loras Runestrong](/Images/Loras%20Runestrong.jpg), [Martin Candlewynd](/The%20City/Martin%20Candlewynd.md) and [Luciano](/The%20City/Luciano.md). The dead bodies are inside a pool of black ooze. Edgar with a good investigation check claims that they died to necrotic damage, and that there was a fourth person here, who was likely the culprit.
 
 The group is distraught. Cedrick, Miri and Esther try to find a demonic artifact called "VN-ABYSSAL-B", a clay title written in Abyssal. They don't find it. 
 
