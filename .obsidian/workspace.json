@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a72eaa50e499064",
+        "id": "3260944f1cf81f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "7d6f670e124924bf",
+            "id": "d9a80fa93335b283",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Sessions/Session 6.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Untitled 1.base",
+                "bFile": "Untitled 1.base",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 6"
+              "icon": "git-pull-request",
+              "title": "Diff: Untitled 1.base"
             }
           }
         ]
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +177,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d6f670e124924bf",
+  "active": "585937958dbfb5b3",
   "lastOpenFiles": [
-    "The City/Rico Ratti Jr.md",
+    "Images/Trixie1.webp",
+    "Sessions/Session 7.md",
+    "Images/Rin1JomaCueto.jpg",
+    "Untitled 1.base",
     "Sessions/Session 6.md",
+    "Party/Silvius.md",
+    "Shinpi Yakuza.md",
+    "Untitled.base",
+    "The City/Rico Ratti Jr.md",
     "The City/Rico Ratti Jrmd.md",
     "Carminus/Carminus Universum.md",
     "Carminus/Clara Gwynne.md",
@@ -198,25 +205,19 @@
     "Sessions/Session 0B.md",
     "Sessions/Session 0A.md",
     "Party/Vetri.md",
-    "Party/Silvius.md",
     "Party/Miri.md",
     "Party/Esther.md",
     "Party/Edgar.md",
     "Carminus/Triston Hightower.md",
     "Carminus/Norah Ward.md",
-    "Carminus/Loras Runestrong.md",
     "Images/Mr_edgar_starling.png",
     "Images/silvius2_token2.png",
-    "The City/Azukk Tuskon.md",
-    "README.md",
     "Images/Yulis1.png",
     "Images/esther_bishop_hunter.png",
     "The City",
     "Images/Hana1.jpg",
     "Images/planarcirque.png",
     "Images/shootinggloves.png",
-    "Images/wonderouspalette.png",
-    "Images/Rakta1.jpg",
     "Party",
     "Carminus"
   ]
