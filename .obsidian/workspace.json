@@ -11,14 +11,14 @@
             "id": "d9a80fa93335b283",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Untitled 1.base",
-                "bFile": "Untitled 1.base",
-                "aRef": ""
+                "file": "Sessions/Session 8.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: Untitled 1.base"
+              "icon": "lucide-file",
+              "title": "Session 8"
             }
           }
         ]
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "585937958dbfb5b3",
+  "active": "d9a80fa93335b283",
   "lastOpenFiles": [
+    "Images/Autumn1CaspianArk.jpg",
+    "Images/Connor1FeliksReinfuss.jpg",
+    "Images/Viraj1.jpg",
+    "Images/Berion1woodenpencilbox.jpg",
+    "Untitled 2.base",
+    "Untitled 3.base",
+    "Sessions/Session 8.md",
+    "Images/party2.png",
+    "Images/party1.png",
+    "Pasted image 20250920021552.png",
     "Images/Trixie1.webp",
     "Sessions/Session 7.md",
     "Images/Rin1JomaCueto.jpg",
@@ -209,15 +219,8 @@
     "Party/Esther.md",
     "Party/Edgar.md",
     "Carminus/Triston Hightower.md",
-    "Carminus/Norah Ward.md",
     "Images/Mr_edgar_starling.png",
-    "Images/silvius2_token2.png",
-    "Images/Yulis1.png",
-    "Images/esther_bishop_hunter.png",
     "The City",
-    "Images/Hana1.jpg",
-    "Images/planarcirque.png",
-    "Images/shootinggloves.png",
     "Party",
     "Carminus"
   ]
