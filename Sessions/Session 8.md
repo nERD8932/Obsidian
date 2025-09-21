@@ -68,16 +68,14 @@ The night goes on, some people have left by this point. Esther notices the stude
 
 During combat, the party sees the "souls" or "life force" of the dead nobles enter the sarcophagus, and create another pharaoh specter. Edgar also saves MP Autumn's life, who later wishes to giver her gratitude. After a long and arduous combat, where many civilians died, it ends with Conner casting fireball centered on himself. He is heavily hurt, but alive.
 
-By this point, Gail, along with the rest of the officers are at the scene. Gail kills the last pharaoh servant, and promptly steals Conner's notebook. Silvius and the others lie about the origin of the enemies to temporarily save Connor's skin. 
-
-Vetri also subtly lets Berion know to remain cautious around Gail.
+By this point, Gail, along with the rest of the officers are at the scene. Gail kills the last pharaoh servant, and promptly steals Conner's notebook. Esther, upon seeing Gail, start to comically pretend that she's distraught, thanking Gail for saving them all. She then grabs on to Gail for "support" as she "feels light headed" only to stealthily grab Gail's police badge out of her pocket. Silvius and the others lie about the origin of the pharaoh servants to temporarily save Connor's skin. Vetri also subtly lets Berion know to remain cautious around Gail.
 
 Vetri and Silvius head to the hospital with Connor, where they stay in his room to make sure Gail, or the other cultists don't kill him. Since Vetri's dad is on call at the hospital, she catches him up on what happened. He seems to think the exhibition went well, which, to his credit, wasn't completely incorrect. Kinda. Maybe. 
 
 We then cut back to the other part of the group. Gail comes up to them. and asks about the whereabouts of the figurine. Cedrik lies and tells her its with Vetri. Gail is rage baited once again, this time by Esther, and leaves soon after.
 
 The group also sees a reporter walking up to them, who asks them about the incident. After giving somewhat factual information, they're also asked if their party has a name they wish to be referred by. The party unanimously agrees to go with "Six Reasons Why". Why, you ask? Glad you asked:
-1. Esthy,
+1. Essie,
 2. Silvi,
 3. Mori,
 4. Vatre,
