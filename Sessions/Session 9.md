@@ -11,7 +11,7 @@ Afterwards, we see Miri, who goes home to talk to his parents. Their Gnome dad i
 In the meantime, Silvius goes back home once before heading to the university with the party. There, he's greeted by his butler, who also lets him know that his parents arrived last night. He immediately goes to meet them. He greets and hugs them, and also asks them about their work. 
 
 Merwin Gradus
-![Images/merwin3.png](Images/merwin3.png)
+![Images/merwin3.png](/Images/merwin3.png)
 
 Zuria Esmer
 ![/Images/zuria4.png](/Images/zuria4.png)
