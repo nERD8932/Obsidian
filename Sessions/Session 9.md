@@ -11,9 +11,11 @@ Afterwards, we see Miri, who goes home to talk to his parents. Their Gnome dad i
 In the meantime, Silvius goes back home once before heading to the university with the party. There, he's greeted by his butler, who also lets him know that his parents arrived last night. He immediately goes to meet them. He greets and hugs them, and also asks them about their work. 
 
 Merwin Gradus
+
 ![Images/merwin3.png](/Images/merwin3.png)
 
 Zuria Esmer
+
 ![/Images/zuria4.png](/Images/zuria4.png)
 
 Zuria tell him that they got done a bit early, so they took an airship home. Merwin then ask Silvius about the exhibition yesterday, which he found out about in the newspaper. Since Silvius hasn't read the newspaper yet, he was caught off guard. He however is able to convince his parents that he's being safe. and that what happened was just a coincidence. They tell him to be more careful, since the city is a bit unsafe at the moment. His parents also bring up the deaths of Loras and Martin, who they knew. Silvius senses that they seem to know more about this than they're letting on, but isn't able to get much out of them. He then lets his parents know that he'll be taking some money out of the bank, and leaves before he can be questioned about it.
@@ -31,6 +33,7 @@ Berion then tells them to walk with them. He takes them into his apartment, wher
 Finally, we cut to Cedrik and Vetri, who head towards Trixie's hideout/lab to catch up with her. The lab is in Noxham, where they stand out like... well, like nobles in a slum. They make their way to the address Trixie gave them, while keeping their valuables close to them. After knocking on the door for some time, Vetri reaches for her gun to shoot the door open, which is when Trixie opens the door. She invites them in. Inside, they see an extremely large mech, likely the one she was talking about back in the abandoned mines.
 
 Shockerstomper
+
 ![/Images/Shockerstomper.webp](/Images/Shockerstomper.webp)
 
 Trixie talks about how the mech can be piloted by two people (albeit two short people). 
@@ -48,6 +51,7 @@ The next day, the gang heads to Carminus Universum to meet Biz, Azukk's daughter
 They find Biz in the cafeteria.
 
 Biz Tuskson
+
 ![/Images/biz1.jpeg](/Images/biz1.jpeg)
 
 Cedrik is made to be the first point of contact, as she likely remembers him. They then discreetly ask her about Elijah, which seems to pique her curiosity. The party tries to tell her what they can without getting her too involved, but she seems adamant to know more. After a lot of convincing on both sides, they decide that she'll introduce a disguised Silvius to Elijah, to maintain plausible deniability regarding her involvement with the party.
