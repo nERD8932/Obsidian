@@ -32,6 +32,7 @@ Finally, we cut to Cedrik and Vetri, who head towards Trixie's hideout/lab to ca
 
 Shockerstomper
 ![/Images/Shockerstomper.webp](/Images/Shockerstomper.webp)
+
 Trixie talks about how the mech can be piloted by two people (albeit two short people). 
 After talking about the mech some more, she gives the two books she stole from the museum to Vetri. 
 
