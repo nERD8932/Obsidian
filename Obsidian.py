@@ -2,7 +2,7 @@ import re
 from pprint import pprint
 from pathlib import Path
 
-cwd = Path(r"C:/Users/samir/Downloads/Obsidian/").resolve()
+mainpath = Path(r"./Obsidian/").resolve()
 files = {}
 
 for path in cwd.rglob("*"):
