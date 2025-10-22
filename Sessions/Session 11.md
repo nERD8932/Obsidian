@@ -26,25 +26,25 @@ He asks Edgar if he knows the artifact he's supposed to collect. Edgar again lie
 
 Edgar tells Vundus to collect his money in the alternate realm of the train station. After seeing a confused look on Vundus's face, Edgar tells Vundus about the train station and its passphrase, and how the church here stays in touch through it. Vundus seems to understand and tells him he'll visit the station tomorrow.
 
-Before leaving with the necklace, Edgar mentions his fathers name, Allan Starling. This immediately triggers a reaction in Veresko.
+After taking the necklace, Edgar brings up his father, and his name, Allan Starling, to see if it triggers reaction from the pair. And just like he wanted, Veresko does react, with unbridled rage.
 
-"_YOUR_ father is _ALLAN STARLING?_" asks an enraged Veresko
+"_YOUR_ father is _ALLAN STARLING?_" asks an enraged Veresko.
 
-"You _are_ part of the cult, aren't you?", Vundus asks Edgar, looking more confused than he did earlier. "And your father, he was a Varkanus worshipper? _He_ told you that?" he says while trying to calm his brother down.
+"You _are_ part of the cult, aren't you?", asks Vundus, looking more confused than he did earlier. "And your father, he said he was a _worshipper_ of Varkys? _He_ told you that?" he says while trying to calm his brother down.
 
-"Yes, he did. Why are you so surprised?" he replies. "He was part of the church.  And sixteen years ago, he met with Tritons, after which he mysteriously commit suicide!"
+"Yes, he did. Why are you so surprised?" he replies. "He was part of the church.  And sixteen years ago, he met with Tritons at this exact fair, after which he mysteriously commit suicide."
 
 "Your father gave us a lot of trouble." says Vundus, still trying to assess the situation.
 
-The temperature in the room clearly rises as Edgar, who is getting increasingly angry and suspicious of their reaction, outright asks them if they killed his father.
+The tension in the room clearly rises as Edgar gets increasingly angry and suspicious of their answers. He then outright asks them if they killed Allan.
 
 At this point, Veresko interjects and says "We DIDN'T kill Allan Starling, but I WISH we had!". 
 
-Edgar starts probing them for more information, trying to get them to slip up and admit their involvement in his fathers murder. As the tension reaches a breaking point, Veresko reaches for his axe and is about to take a swing, as the rest of the party immediately spring into action. Their sudden appearance was startling enough to stop Veresko from swinging his axe any further.  The party attempts to de-escalate the situation while posing as other cultists.
+Edgar, who is equalparts enraged, and curious starts probing them for more information, trying to get them to slip up and admit their involvement in his fathers' murder. Tension reaches a breaking point, Veresko reaches for his axe and is about to take a swing at Edgar. As this happens, the rest of the party immediately spring into action. Their sudden appearance was startling enough to stop Veresko from swinging his axe any further. The party attempts to de-escalate the situation through a show of force while posing as other members of the church. Silvius told the Tritons that an attack on Edgar of them would be considered an attack on the church, prompting immediate retaliation. Vundus, who had seen them kill an abberant shark a few hours earlier, likely didn't want to take those chances, nor did he want to further deteriorate relations with the church.   
 
-Vundus, who clearly also wants to defuse the situation proceeds to tell Edgar about their meeting with his father sixteen years ago. Allan Starling was supposed to buy the Aethian Varkys Figurine from them but cancelled the deal once he found out that they were cultists. Furthermore, he claimed that Allan actually stole the figurine from them and sent it off somewhere. The brothers captured and tortured him, before sending him off to a third party that actually killed him.
+In an attempt to defuse the situation, Vundus tells Edgar about their meeting with his father sixteen years ago. Allan Starling was supposed to buy the Aethian Varkys Figurine from them but cancelled the deal once he found out that they were cultists. Furthermore, he claimed that Allan actually stole the figurine from them and sent it off somewhere. The brothers captured and tortured him on someones behest, before sending him off to that third party, where he was actually killed.
 
-Edgar, with the party's backup then demands the names of the people that instructed the brothers to capture Allan, offering to help find and return the stolen figurine. Vundus doesn't give up names, feigning ignorance, but says he may be willing to part with more information if Edgar brings him the figurine. As the party is leaving the tent, Veresko confesses that he enjoyed his father's screams. Edgar mentally vows to see these two siblings dead.
+Edgar cracks down on their thinly veiled attempt to hide their invovment, telling them that even if they didn't directly kill Allan Starling, his blood was very much on their hands. Then, with the part back-up, he demands the names of the people that instructed the brothers to capture Allan, offering to help find and return the figurine for their cooperation. Vundus doesn't give up names, feigning ignorance, but says he may be willing to part with more information if Edgar brings him the figurine first. As the party is leaving the tent, Veresko confesses that he enjoyed his father's screams. Edgar mentally vows to see these two siblings dead.
 
 Everyone seems to be trying to wrap their head around the situation. Esther proceeds to take her glove off and lightly  slap Edgar with it. She scolds him for being reckless, which he accepts. She then gives him a well deserved hug.  Silvius tells Edgar to not blame himself, since anyone in that situation would be reckless, likely a lot more than Edgar was. The party continue to try and comfort Edgar, who still seems shaken up. They decide that they all desperately needed drinks, and since the Rubino Knightclub in Fayshine, owned and operated by Esther's mafia family was nearby, they decide to head there.
 
