@@ -25,14 +25,14 @@
             "id": "4c2102d13f73923c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Sessions/Session 11.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Sessions/Session 12.md",
+                "bFile": "Sessions/Session 12.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 11"
+              "icon": "git-pull-request",
+              "title": "Diff: Session 12"
             }
           },
           {
@@ -205,14 +205,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4c8676fd3ac0385",
+  "active": "4c2102d13f73923c",
   "lastOpenFiles": [
-    "Images/AnstruthSaxaboom.png",
-    "Images/FormlessBeast1.jpg",
+    "Sessions/Session 12.md",
+    "Sessions/Session 1.md",
+    "Sessions/Session 5.md",
+    "Sessions/Session 4.md",
+    "Sessions/Session 3.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 7.md",
+    "Sessions/Session 6.md",
     "Sessions/Session 11.md",
     "Sessions/Session 10.md",
     "Sessions/Session 8.md",
     "Sessions/Session 9.md",
+    "Images/AllanJournal2.png",
+    "Images/AllanJournal3.png",
+    "Images/AllanJournal1.png",
+    "Images/AnstruthSaxaboom.png",
+    "Images/FormlessBeast1.jpg",
     "Untitled 8.base",
     "Untitled 7.base",
     "Untitled 6.base",
@@ -223,21 +234,12 @@
     "Images/vundus1boissb.jpg",
     "2025-09-28.md",
     "Images/diego1.png",
-    "Sessions/Session 5.md",
-    "Sessions/Session 4.md",
-    "Sessions/Session 3.md",
-    "Images/Toffee1.webp",
-    "Images/Seven1madbalalaika.jpg",
     "Untitled 5.base",
-    "Images/biz1.jpeg",
-    "Images/Shockerstomper.webp",
     "Untitled 4.base",
     "The City/Allan Starling.md",
     "Untitled 2.base",
     "Untitled 3.base",
-    "Sessions/Session 7.md",
     "Untitled 1.base",
-    "Sessions/Session 6.md",
     "Party/Silvius.md",
     "The City/Shinpi Yakuza.md",
     "The City/Rico Ratti Jr.md",
@@ -246,12 +248,9 @@
     "Carminus/Clara Gwynne.md",
     "Party/Cedrik.md",
     "Carminus/Selda Hightower.md",
-    "Sessions/Session 1.md",
     "Obsidian.py",
-    "Sessions/Session 2.md",
     "Sessions/Session 0C.md",
     "Roja Cartel.md",
-    "Sessions/Session 0B.md",
-    "Sessions/Session 0A.md"
+    "Sessions/Session 0B.md"
   ]
 }
